@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Strings of form -->
+    <string name="text_latitude">Ingrese la Latitud de la Ubicación</string>
+    <string name="text_longitude">Ingrese la Longitud de la Ubicación</string>
+    <string name="btn_send">Enviar</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
